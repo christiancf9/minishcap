@@ -1,2 +1,2 @@
 ### Proyecto de importación y exportación de KEY's realizado en clase...
-![IMAGEN](.../ApuntesSQL/imagenes/ssh_key.png)
+![IMAGEN](./ApuntesSQL/imagenes/ssh_key.png)
